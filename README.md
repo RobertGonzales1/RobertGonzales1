@@ -1,5 +1,5 @@
 ## Hi there 👋
-Im Robert, and Im learning about Systems Administration and Setup.
+Im Robert, and Im learning about Systems Administration and Systems Setup.
 <!--
 **RobertGonzales1/RobertGonzales1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
