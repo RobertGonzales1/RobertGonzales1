@@ -1,5 +1,10 @@
 ## Hi there 👋
 Im Robert, and Im learning about Systems Administration, Virtualization and Git.
+
+I have a B.S in Computer Informaion Systems
+
+📫 Contact me
+Linkedin https://www.linkedin.com/in/robertgonzales/
 <!--
 **RobertGonzales1/RobertGonzales1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
