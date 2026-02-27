@@ -1,7 +1,10 @@
 ## Hi there 👋
-Im Robert, and Im learning about Systems Administration, Virtualization and Git.
+Im Robert, HomeLab enthusiast, and Im learning about Systems Administration, Virtualization and Git.
 
 I have a B.S in Computer Informaion Systems
+
+🧑‍💻 My Homelab
+Homelab https://github.com/RobertGonzales1/Homelab
 
 ## 📫 Contact me
 Linkedin https://www.linkedin.com/in/robertgonzales/
