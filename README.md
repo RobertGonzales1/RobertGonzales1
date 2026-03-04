@@ -1,6 +1,6 @@
 ## 👋 Hi there <br>
 Im Robert, HomeLab enthusiast, and Im learning about Systems Administration, Virtualization, Docker, and Git. <br>
-<br>
+
 ## 🌱 Education <br>
 B.S in Computer Informaion Systems (2011) <br>
 <br>
