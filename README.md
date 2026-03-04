@@ -1,30 +1,30 @@
 ## 👋 Hi there <br>
 Im Robert, HomeLab enthusiast, and Im learning about Systems Administration, Virtualization, Docker, and Git. <br>
 
-## 🌱 Education <br>
+## 🔭 Education <br>
 B.S in Computer Informaion Systems (2011) <br>
-<br>
-## 🔭 Certifacations: <br>
+
+## ✨ Certifacations: <br>
 CompTIA: <br>
 A+ (02/2025) <br>
 Network+ (07/2025) <br>
 Security+ (09/2025) <br>
-<br>
+
 Microsoft: <br>
-Microsoft Certified: Azure Fundamentals (AZ-900) (12/2022)
+Microsoft Certified: Azure Fundamentals (AZ-900) (12/2022)<br>
 
-New Relic:
-New Relic Verified Foundation (NVF) (04/2025)
-New Relic Certified APM Practitioner Associate (APA) (12/2025)
+New Relic:<br>
+New Relic Verified Foundation (NVF) (04/2025)<br>
+New Relic Certified APM Practitioner Associate (APA) (12/2025)<br>
 
-Us Department of Homeland Security:
-Introduction to the Incident Command System (ICS-100) (09/2018)
+Us Department of Homeland Security:<br>
+Introduction to the Incident Command System (ICS-100) (09/2018)<br>
 
-## 🧑‍💻 My Homelab
-Homelab https://github.com/RobertGonzales1/Homelab
+## 🧑‍💻 My Homelab<br>
+Homelab https://github.com/RobertGonzales1/Homelab<br>
 
-## 📫 Contact me
-Linkedin https://www.linkedin.com/in/robertgonzales/
+## 📫 Contact me<br>
+Linkedin https://www.linkedin.com/in/robertgonzales/<br>
 <!--
 **RobertGonzales1/RobertGonzales1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
