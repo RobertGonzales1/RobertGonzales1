@@ -1,16 +1,16 @@
 ## 👋 Hi there <br>
-Im Robert, HomeLab enthusiast, and Im learning about Systems Administration, Virtualization and Git.
-
-## 🌱 Education
-B.S in Computer Informaion Systems (2011)
-
-## 🔭 Certifacations:
-CompTIA:
-A+ (02/2025)
-Network+ (07/2025)
-Security+ (09/2025)
-
-Microsoft:
+Im Robert, HomeLab enthusiast, and Im learning about Systems Administration, Virtualization, Docker, and Git. <br>
+<br>
+## 🌱 Education <br>
+B.S in Computer Informaion Systems (2011) <br>
+<br>
+## 🔭 Certifacations: <br>
+CompTIA: <br>
+A+ (02/2025) <br>
+Network+ (07/2025) <br>
+Security+ (09/2025) <br>
+<br>
+Microsoft: <br>
 Microsoft Certified: Azure Fundamentals (AZ-900) (12/2022)
 
 New Relic:
