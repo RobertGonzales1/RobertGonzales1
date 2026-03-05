@@ -17,7 +17,7 @@ New Relic:<br>
 New Relic Verified Foundation (NVF) (04/2025)<br>
 New Relic Certified APM Practitioner Associate (APA) (12/2025)<br>
 
-Us Department of Homeland Security:<br>
+U.S, Department of Homeland Security:<br>
 Introduction to the Incident Command System (ICS-100) (09/2018)<br>
 
 ## 🧑‍💻 My Homelab<br>
