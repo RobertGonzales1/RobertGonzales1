@@ -2,23 +2,23 @@
 Im Robert, HomeLab enthusiast, and Im learning about Systems Administration, Virtualization, Docker, and Git. <br>
 
 ## 🔭 Education <br>
-B.S in Computer Informaion Systems (2011) <br>
+B.S in Computer Informaion Systems <br>
 
 ## ✨ Certifacations: <br>
 CompTIA: <br>
-A+ (02/2025) <br>
-Network+ (07/2025) <br>
-Security+ (09/2025) <br>
+A+ <br>
+Network+ <br>
+Security+ <br>
 
 Microsoft: <br>
-Microsoft Certified: Azure Fundamentals (AZ-900) (12/2022)<br>
+Microsoft Certified: Azure Fundamentals (AZ-900) <br>
 
 New Relic:<br>
-New Relic Verified Foundation (NVF) (04/2025)<br>
-New Relic Certified APM Practitioner Associate (APA) (12/2025)<br>
+New Relic Verified Foundation (NVF) <br>
+New Relic Certified APM Practitioner Associate (APA) <br>
 
 U.S, Department of Homeland Security:<br>
-Introduction to the Incident Command System (ICS-100) (09/2018)<br>
+Introduction to the Incident Command System (ICS-100) <br>
 
 ## 🧑‍💻 My Homelab<br>
 Homelab https://github.com/RobertGonzales1/Homelab<br>
