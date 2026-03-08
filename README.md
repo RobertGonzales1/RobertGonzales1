@@ -21,7 +21,7 @@ New Relic Certified APM Practitioner Associate (APA) <br>
 Homelab https://github.com/RobertGonzales1/Homelab<br>
 
 ## 📫 Contact me<br>
-Linkedin ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/robertgonzales/<br>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/robertgonzales/<br>
 <!--
 **RobertGonzales1/RobertGonzales1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
