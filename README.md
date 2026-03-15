@@ -1,41 +1,43 @@
-## 👋 Hi there <br>
-Im Robert, HomeLab enthusiast, and Im learning about Systems Administration, Virtualization, Docker, and Git. <br>
+# Hi, I'm Robert 👋
 
-## 🔭 Education <br>
-B.S in Computer Informaion Systems <br>
+I'm a Systems Administration and IT enthusiast with a passion for HomeLab projects. 
+I'm continuously expanding my skills in Virtualization, Docker, and Git.
 
-## ✨ Certifacations: <br>
-CompTIA: <br>
-A+ <br>
-Network+ <br>
-Security+ <br>
+---
 
-Microsoft: <br>
-Microsoft Certified: Azure Fundamentals (AZ-900) <br>
+## 🎓 Education
 
-New Relic:<br>
-New Relic Verified Foundation (NVF) <br>
-New Relic Certified APM Practitioner Associate (APA) <br>
+**B.S. in Computer Information Systems**
 
-Federal Emergency Management Agency: <br>
-Introduction to the Incident Command System (ICS-100) <br>
+---
 
-## 🧑‍💻 My Homelab<br>
-Homelab https://github.com/RobertGonzales1/Homelab<br>
+## 📜 Certifications
 
-## 📫 Contact me<br>
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/robertgonzales/<br>
-<!--
-**RobertGonzales1/RobertGonzales1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CompTIA**
+- A+
+- Network+
+- Security+
 
-Here are some ideas to get you started:
+**Microsoft**
+- Azure Fundamentals (AZ-900)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**New Relic**
+- New Relic Verified Foundation (NVF)
+- New Relic Certified APM Practitioner Associate (APA)
+
+**Federal Emergency Management Agency**
+- Introduction to the Incident Command System (ICS-100)
+
+---
+
+## 🧑‍💻 HomeLab
+
+I maintain a personal HomeLab where I experiment with infrastructure, networking, and self-hosted services.
+
+🔗 [View my HomeLab repository](https://github.com/RobertGonzales1/Homelab)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertgonzales/)
