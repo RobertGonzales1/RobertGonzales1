@@ -14,9 +14,9 @@ I'm continuously expanding my skills in Virtualization, Docker, and Git.
 ## 📜 Certifications
 
 **CompTIA**
-- A+
-- Network+
-- Security+
+- A +
+- Network +
+- Security +
 
 **Microsoft**
 - Azure Fundamentals (AZ-900)
