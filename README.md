@@ -17,6 +17,8 @@ I'm continuously expanding my skills in Virtualization, Docker, and Git.
 - 🔗 [A +](https://www.credly.com/badges/18a82104-08e8-4767-8d30-faf2c577a869/)
 - 🔗 [Network +](https://www.credly.com/badges/456d6844-1ba0-425e-8a31-1f881aaf2e6a/)
 - 🔗 [Security +](https://www.credly.com/badges/00bfb606-565b-4637-ae2d-e3651426299d/)
+- 🔗 [CompTIA IT Operations Specialist](https://www.credly.com/badges/c26a0e6c-62e3-46ba-b7ba-3af858ce305c)
+- 🔗 [CompTIA Secure Infrastructure Specialist](https://www.credly.com/badges/ad0ada79-9ff8-41da-a2ac-afe95ee2fc06)
 
 **Microsoft**
 - 🔗 [Azure Fundamentals (AZ-900)](https://www.credly.com/badges/6a6e9ea3-4f0f-46e1-91fe-02872f67bf9c/)
