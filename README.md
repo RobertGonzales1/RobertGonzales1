@@ -39,6 +39,7 @@ If you're a recruiter, you'll find my certs and skills below. If you're a cowork
 
 **Microsoft**
 - 🔗 [Azure Fundamentals (AZ-900)](https://www.credly.com/badges/6a6e9ea3-4f0f-46e1-91fe-02872f67bf9c/)
+- 🔗 [AI Business Professional (AB-730)](https://learn.microsoft.com/en-us/users/robertgonzales-5377/credentials/30481cb77715a3de)
 
 **New Relic**
 - 🔗 [Verified Foundation (NVF)](https://credentials.newrelic.com/5bb08f7c-f34f-4d5e-b75d-7d28389b7c40#acc.7NWq5AYd)
