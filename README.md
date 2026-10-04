@@ -33,9 +33,11 @@ If you're a recruiter, you'll find my certs and skills below. If you're a cowork
 - 🔗 [Network+](https://www.credly.com/badges/456d6844-1ba0-425e-8a31-1f881aaf2e6a/)
 - 🔗 [Security+](https://www.credly.com/badges/00bfb606-565b-4637-ae2d-e3651426299d/)
 - 🔗 [Server+](https://www.credly.com/badges/529e9853-03a2-4547-ae7f-f89712e620d9/)
-- 🔗 [IT Operations Specialist](https://www.credly.com/badges/c26a0e6c-62e3-46ba-b7ba-3af858ce305c)
-- 🔗 [Secure Infrastructure Specialist](https://www.credly.com/badges/ad0ada79-9ff8-41da-a2ac-afe95ee2fc06)
-- 🔗 [Network Infrastructure Professional](https://www.credly.com/badges/2f9c580a-c969-443b-8366-3b7f6afbb0b8)
+- 🔗 [CySA+](https://www.credly.com/badges/0e7d022e-5ac7-4546-aa6c-c53aaa6bd6a7/)
+- 🔗 [IT Operations Specialist - CIOS](https://www.credly.com/badges/c26a0e6c-62e3-46ba-b7ba-3af858ce305c)
+- 🔗 [Secure Infrastructure Specialist - CSIS](https://www.credly.com/badges/ad0ada79-9ff8-41da-a2ac-afe95ee2fc06)
+- 🔗 [Network Infrastructure Professional - CNIP](https://www.credly.com/badges/2f9c580a-c969-443b-8366-3b7f6afbb0b8)
+- 🔗 [Security Analytics Professional – CSAP](Waiting for it to unlock)
 
 **Microsoft**
 - 🔗 [Azure Fundamentals (AZ-900)](https://www.credly.com/badges/6a6e9ea3-4f0f-46e1-91fe-02872f67bf9c/)
