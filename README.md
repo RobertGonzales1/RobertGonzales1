@@ -37,7 +37,7 @@ If you're a recruiter, you'll find my certs and skills below. If you're a cowork
 - 🔗 [IT Operations Specialist - CIOS](https://www.credly.com/badges/c26a0e6c-62e3-46ba-b7ba-3af858ce305c)
 - 🔗 [Secure Infrastructure Specialist - CSIS](https://www.credly.com/badges/ad0ada79-9ff8-41da-a2ac-afe95ee2fc06)
 - 🔗 [Network Infrastructure Professional - CNIP](https://www.credly.com/badges/2f9c580a-c969-443b-8366-3b7f6afbb0b8)
-- 🔗 [Security Analytics Professional – CSAP](Waiting for it to unlock)
+- 🔗 [Security Analytics Professional – CSAP](Earned, Waiting for the page for it to unlock)
 
 **Microsoft**
 - 🔗 [Azure Fundamentals (AZ-900)](https://www.credly.com/badges/6a6e9ea3-4f0f-46e1-91fe-02872f67bf9c/)
