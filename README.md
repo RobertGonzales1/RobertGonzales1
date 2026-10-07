@@ -61,6 +61,8 @@ This is where the real learning happens. I maintain a personal HomeLab to experi
 
 🔗 [View my HomeLab repository](https://github.com/RobertGonzales1/Homelab)
 
+
+
 ---
 
 ## Games
@@ -83,4 +85,4 @@ This is Where I put the Playable Builds for the Games I've Made (With the Help o
 
 ---
 
-*Thanks for stopping by. Feel free to explore my repos or reach out — I'm always up for a good tech conversation.*
+*Thanks for stopping by. Feel free to explore my repos or reach out.
