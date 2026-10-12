@@ -44,8 +44,13 @@ If you're a recruiter, you'll find my certs and skills below. If you're a cowork
 - 🔗 [AI Business Professional (AB-730)](https://learn.microsoft.com/en-us/users/robertgonzales-5377/credentials/30481cb77715a3de)
 
 **New Relic**
-- 🔗 [Verified Foundation (NVF)](https://credentials.newrelic.com/5bb08f7c-f34f-4d5e-b75d-7d28389b7c40#acc.7NWq5AYd)
-- 🔗 [Certified APM Practitioner Associate (APA)](https://credentials.newrelic.com/ac6b6efa-bbc4-40d5-b7a2-2b0e57fde90a#acc.TgmHxVkG)
+- 🔗 [Verified Foundation (NVF)](https://credentials.newrelic.com/5bb08f7c-f34f-4d5e-b75d-7d28389b7c40#acc.7NWq5AYd) (Legacy)
+- 🔗 [Certified APM Practitioner Associate (APA)](https://credentials.newrelic.com/ac6b6efa-bbc4-40d5-b7a2-2b0e57fde90a#acc.TgmHxVkG) (Legacy)
+- 🔗 [New Relic Verified Foundation (NVF)](https://credentials.newrelic.com/b0b41c81-5b04-44f5-9bde-31f7d21d7179#acc.b23TlwvN)
+- 🔗 [APM Practitioner - APM Foundations](https://credentials.newrelic.com/c0033068-fe1b-479e-bc92-57cf9b0dd18c#acc.PFoKXMeg)
+- 🔗 [APM Practitioner - Managing Agent Data](https://credentials.newrelic.com/8379c5cf-2689-4dee-9e91-16de339eb7dc#acc.kYdG6rzT)
+- 🔗 [APM Practitioner - Visualizing Insights](https://credentials.newrelic.com/706c9942-0fd8-40d5-b5a8-2c4d1dd3a03c#acc.ptAG2zBb)
+- 🔗 [APM Practitioner - Full-Stack Observability Practices](https://credentials.newrelic.com/fcffb32b-5b52-464c-b0ed-70b95dff3abe#acc.S1PJ3D5l)
 
 **Peoplecert**
 - ITIL Version 5 Foundation
